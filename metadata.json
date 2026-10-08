@@ -1,0 +1,6 @@
+{
+  "name": "龜龜深潛者 (Shelldiver: Retro Abyss)",
+  "description": "融合潛水探索、水母捕撈、雷射拆解採礦與多分支天賦樹的復古像素深潛冒險遊戲。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
